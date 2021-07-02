@@ -1,4 +1,4 @@
-SRC =	main2.c
+SRC =	main4.c
 
 NAME = FDF
 
