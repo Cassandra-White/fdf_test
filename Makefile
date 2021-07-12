@@ -1,6 +1,45 @@
-SRC =	main4.c
+SRC =	fdf.c\
+		stock_map.c\
+		parsing_argv.c\
+		ft_error.c\
+		get_next_line.c\
+		ft_strjoin.c\
+		ft_strdel.c\
+		ft_memdel.c\
+		ft_strnew.c\
+		ft_strcpy.c\
+		ft_strchr.c\
+		ft_strsub.c\
+		ft_strcat.c\
+		ft_strclr.c\
+		ft_strlen.c\
+		ft_atoi.c\
+		ft_wdcounter.c\
+		ft_strsplit.c\
+		init_value.c\
+		color.c\
+		draw.c\
+		draw_set.c\
+		free_fdf.c\
+		deal_key.c\
 
-NAME = FDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAME = fdf
 
 MLX_DIR = minilibx-linux
 MLX = libmlx.a 
